@@ -2,17 +2,16 @@
 
 ## Overview of Project
 
-> The purpose of this assessment is to analize kickstarter data to find trends that provide the client a better understanding of various kickstarter campain goals and their success rates. 
+> The purpose of this assessment is to analyze kickstarter data to find trends that provide the client a better understanding of various kickstarter campain goals and their success rates. 
 
 ## Analysis and Challenges
 
 > 1. Compare how various campaigns fared in relation to their launch dates and their funding goals using Kickstarter data. 
 >> a. Outcomes Based on Launch Date:
->>> When looking at success of a kickstarter campain based on the month the campain launch, we see a couple of trends. In May/June we see a large spike in successful theater campains that begins to trail off in July. There also seems to be substantial drop in success from November to December.
 
 ![Graph ploting theater outcomes based on the launch date.](https://github.com/ClayMack/kickstarter-analysis/blob/main/Resources/Theature_Outcomes_vs_Lauch.png
 "This is a sample image.")
-
+>>> When looking at success of a kickstarter campain based on the month the campain launch, we see a couple of trends. In May/June we see a large spike in successful theater campains that begins to trail off in July. There also seems to be substantial drop in success from November to December.
 
 > The overview of the analysis is well described with screenshots 
 

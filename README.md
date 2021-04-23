@@ -2,11 +2,11 @@
 
 ## Overview of Project
 
-> The purpose of this assessment is to analyze kickstarter data to find trends that provide the client a better understanding of various kickstarter campain goals and their success rates. 
+> The purpose of this assessment is to analyze kickstarter data to find trends that provide the client a better understanding of various kickstarter theater campains and their success rates. 
 
 ## Analysis and Challenges
 
-> 1. Compare how various campaigns fared in relation to their launch dates and their funding goals using Kickstarter data. 
+> 1. Compare how various theater campaigns fared in relation to their launch dates and their funding goals using Kickstarter data. 
 >> a. Outcomes Based on Launch Date:
 
 ![Graph ploting theater outcomes based on the launch date.](https://github.com/ClayMack/kickstarter-analysis/blob/main/Resources/Theature_Outcomes_vs_Lauch.png
@@ -34,3 +34,4 @@
 >One conclusion is made about the Outcomes based on Goals
 
 >There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs
+

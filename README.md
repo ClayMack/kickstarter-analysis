@@ -13,9 +13,9 @@
 "This is a sample image.")
 >>> When looking at success of a kickstarter campain based on the month the campain launch, we see a couple of trends. In May/June we see a large spike in successful theater campains that begins to trail off in July. There also seems to be substantial drop in success from November to December.
 
-> The overview of the analysis is well described with screenshots 
+>> b. Outcomes Based on Goals: 
 
-![This is a alt text.](/image/sample.png "This is a sample image.")
+![Graph ploting theater outcomes based on goal amount.](https://github.com/ClayMack/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 > The overview of the analysis is well described with screenshots 
 
@@ -34,4 +34,3 @@
 >One conclusion is made about the Outcomes based on Goals
 
 >There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs
-

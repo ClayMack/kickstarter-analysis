@@ -17,11 +17,9 @@
 
 >> 2. Outcomes Based on Goals: 
 
-> This analysis was created using the COUNTIFS() statement in the kickstarter play data. A table was created that seperated out campain goals in $5,000 increaments and whether or not a goal was successful, failed, or canceled. This was done in order to see if there was a trend with the size of the goal and 
+> This analysis was performed using the COUNTIFS() statement in the kickstarter play data to bin goal size based on size. A table was created that seperated out campain goals in $5,000 increaments and whether or not a goal was successful, failed, or canceled. Lastly the percentates of success, failed, or canceled outcomes  were calculated by bin using the =sum() function then dividing the sum of each case by the total. This was done in order to see if there was a trend with the size of the goal and wether or not the campain was successful, failed, or canceled. This workflow was completed with no diffuculty, but the results could be biased due to the sample size of the larger goal amounts. There were numerous small goals but very limited number of higher goals. The effects can be seen between $35,000 to $50,000. The success percentages were really high but only acounted for a small number. This could give a false impression that campain goals of this size are realativly successful, when in reality they are likely less likely to be successful than smaller goals. 
 
 ![Graph ploting theater outcomes based on goal amount.](https://github.com/ClayMack/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
-
->Challenges or difficulties that were encountered, and how they were overcome, are well explained. If there were no difficulties, describe any possible challenges or difficulties that could be encountered (2 pt).
 
 
 
@@ -31,4 +29,6 @@
 
 >Taking a look at how successful plays are based on the size of the goal, you can see a clear pattern. Goals with lower amounts tend to be very successful and the success rate tends to drop as the size of the campain goal increases. 
 
->There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs
+> As mentioned in the analysis, there could be some limitations with the dataset due the distrubtion of goal size (sample bias). This could lead to an underrepresentation of larger campain goals and could be misleading. My recommendation is to look at the line graph and plot a trendline of the data and not fixate on individual goal size outcomes.
+
+![Graph ploting theater outcomes based on goal amount with added trendlines.](https://github.com/ClayMack/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals_trendlines.png)
